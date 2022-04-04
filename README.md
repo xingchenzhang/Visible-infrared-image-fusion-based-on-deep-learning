@@ -35,7 +35,8 @@ A list of papers, datasets (benchmarks) and codes in deep learning-based image f
 	 
 ### VIF-2022
 #### Journal
-
+1. Chang Liu, Bin Yang, Xiaozhi Zhang, Lihui Pang.  
+**IBPNet: a multi-resolution and multi-modal image fusion networkvia iterative back-projection**, Applied Intelligence, 2022.
 
 #### Conference	  
 

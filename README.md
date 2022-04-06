@@ -41,6 +41,12 @@ A list of papers, datasets (benchmarks) and codes in deep learning-based image f
 2. Wanxin Xiao , Yafei Zhang , Hongbin Wang ,Fan Li ,and Hua Jin.  
 **Heterogeneous Knowledge Distillation for Simultaneous Infrared-Visible Image Fusion and Super-Resolution**, IEEE Transactions on Instrumentation and Measurement, 2022.
 
+3. Hongmei Wang, Wenbo An, Lin Li, Chenkai Li, Daming Zhou. 
+**Infrared and visible image fusion based on multi-channel convolutional neural network**, IET Image Processing, 2022. 
+
+4. Jingjing Wang, Jinwen Ren, Hongzhen Li, Zengzhao Sun, Zhenye Luan, Zishu Yu, Chunhao Liang, Yashar E. Monfared, Huaqiang Xu and Qing Hua.  
+**DDGANSE: Dual-Discriminator GAN with a Squeeze-and-Excitation Module for Infrared and Visible Image Fusion**, photonics, 2022.
+
 #### Conference	 
 
 #### arXiv

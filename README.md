@@ -47,6 +47,13 @@ A list of papers, datasets (benchmarks) and codes in deep learning-based image f
 4. Jingjing Wang, Jinwen Ren, Hongzhen Li, Zengzhao Sun, Zhenye Luan, Zishu Yu, Chunhao Liang, Yashar E. Monfared, Huaqiang Xu and Qing Hua.  
 **DDGANSE: Dual-Discriminator GAN with a Squeeze-and-Excitation Module for Infrared and Visible Image Fusion**, photonics, 2022.
 
+5. Zhiguang Yang and Shan Zeng.  
+**TPFusion: Texture Preserving Fusion of Infrared and Visible Images via Dense Networks**, Entropy, 2022.
+
+6. Zhisheng Gao, Qiaolu Wang, Chenglin Zuo.  
+**A total variation global optimization framework and its application on infrared and visible image fusion**, Signal, Image and Video Processing, 2022.
+
+
 #### Conference	 
 
 #### arXiv

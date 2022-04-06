@@ -51,7 +51,10 @@ A list of papers, datasets (benchmarks) and codes in deep learning-based image f
 **TPFusion: Texture Preserving Fusion of Infrared and Visible Images via Dense Networks**, Entropy, 2022.
 
 6. Zhisheng Gao, Qiaolu Wang, Chenglin Zuo.  
-**A total variation global optimization framework and its application on infrared and visible image fusion**, Signal, Image and Video Processing, 2022.
+**A total variation global optimization framework and its application on infrared and visible image fusion**, Signal, Image and Video Processing, 2022. [[Code]](https://github.com/gzsds/globaloptimizationimagefusion) 
+
+7. Zhishe Wang, Yuanyuan Wu, Junyao Wang, Jiawei Xu, Wenyu Shao.  
+**Res2Fusion: Infrared and visible image fusion based on dense Res2net and double non-local attention models**, IEEE Transactions on Instrumentation and Measurement, 2022.
 
 
 #### Conference	 
@@ -60,6 +63,8 @@ A list of papers, datasets (benchmarks) and codes in deep learning-based image f
 1.  Dongyu Rao, Xiao-Jun Wu, Tianyang Xu  
 **TGFuse: An Infrared and Visible Image Fusion Approach Based on Transformer and Generative Adversarial Network**, 2022.
 
+2. Zhancheng Zhang, Yuanhao Gao, Mengyu Xiong, Xiaoqing Luo and Xiao-Jun Wu.  
+**A Joint Convolution Auto-encoder Network for Infrared and Visible Image Fusion**, 2022.
 
 
 ### VIF-2021

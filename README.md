@@ -38,7 +38,16 @@ A list of papers, datasets (benchmarks) and codes in deep learning-based image f
 1. Chang Liu, Bin Yang, Xiaozhi Zhang, Lihui Pang.  
 **IBPNet: a multi-resolution and multi-modal image fusion networkvia iterative back-projection**, Applied Intelligence, 2022.
 
-#### Conference	  
+2. Wanxin Xiao , Yafei Zhang , Hongbin Wang ,Fan Li ,and Hua Jin.  
+**Heterogeneous Knowledge Distillation for Simultaneous Infrared-Visible Image Fusion and Super-Resolution**, IEEE Transactions on Instrumentation and Measurement, 2022.
+
+#### Conference	 
+
+#### arXiv
+1.  Dongyu Rao, Xiao-Jun Wu, Tianyang Xu  
+**TGFuse: An Infrared and Visible Image Fusion Approach Based on Transformer and Generative Adversarial Network**, 2022.
+
+
 
 ### VIF-2021
 #### Journal
@@ -124,12 +133,16 @@ A list of papers, datasets (benchmarks) and codes in deep learning-based image f
 2. Jixiao Wang, Yang Li, Zhuang Miao.  
 **A New Infrared and Visible Image Fusion Method Based on Generative Adversarial Networks and Attention Mechanism**, ICIGP, 2021.
 
+3. Yu Fu, Xiao-Jun Wu.  
+**A Dual-branch Network for Infrared and Visible Image Fusion**, ICPR, 2021.
+
 #### arXiv
 1. Yu Fu, Xiao-Jun Wu, Josef Kittler.  
 **A Deep Decomposition Network for Image Processing: A Case Study for Visible and Infrared Image Fusion**, arXiv, 2021.
 
-2. Yu Fu, Xiao-Jun Wu.  
-**A Dual-branch Network for Infrared and Visible Image Fusion**, arXiv, 2021.
+2. Yu Fu, TianYang Xu, XiaoJun Wu, Josef Kittler.  
+**PPT Fusion: Pyramid Patch Transformerfor a Case Study in Image Fusion**, 2021.
+
 
 ### VIF-2020
 #### Journal
@@ -264,6 +277,7 @@ A list of papers, datasets (benchmarks) and codes in deep learning-based image f
 
 2. Xianyi Ren, Fanyang Meng, Tao Hu, Zhijun Liu, Changwei Wang.  
 **Infrared-visible Image Fusion Based on Convolutional Neural Networks**, International Conference on Intelligent Science and Big Data Engineering, 2018.
+
 
 
 ## General-image-fusion

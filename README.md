@@ -56,6 +56,14 @@ A list of papers, datasets (benchmarks) and codes in deep learning-based image f
 7. Zhishe Wang, Yuanyuan Wu, Junyao Wang, Jiawei Xu, Wenyu Shao.  
 **Res2Fusion: Infrared and visible image fusion based on dense Res2net and double non-local attention models**, IEEE Transactions on Instrumentation and Measurement, 2022.
 
+8. Xin Yang, Hongtao Huo, Jing Li, Chang Li, Zhao Liu, Xun Chen.  
+**DSG-Fusion: Infrared and visible image fusion via generative adversarial networks and guided filter**,  Expert Systems With Applications, 2022.
+
+9. Liming Zhang, Heng Li,  Rui Zhu, Ping Du.  
+**An infrared and visible image fusion algorithm based on ResNet-152**, Multimedia Tools and Applications, 2022.
+
+10. Xianglong Chen, Haipeng Wang, Yaohui Liang, Ying Meng, Shifeng Wang.  
+**A Novel Infrared and Visible Image Fusion Approach Based on Adversarial Neural Network**, Sensors, 2022.
 
 #### Conference	 
 
@@ -66,6 +74,8 @@ A list of papers, datasets (benchmarks) and codes in deep learning-based image f
 2. Zhancheng Zhang, Yuanhao Gao, Mengyu Xiong, Xiaoqing Luo and Xiao-Jun Wu.  
 **A Joint Convolution Auto-encoder Network for Infrared and Visible Image Fusion**, 2022.
 
+3. Zhishe Wang, Wenyu Shao, Yanlin Chen, Jiawei Xu, Xiaoqin Zhang.  
+**Infrared and Visible Image Fusion via Interactive Compensatory Attention Adversarial Learning**, 2022.
 
 ### VIF-2021
 #### Journal

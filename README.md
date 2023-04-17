@@ -7,7 +7,8 @@ A list of papers, datasets (benchmarks) and codes in deep learning-based visible
 - Contact detail: xingchen.zhang@imperial.ac.uk
 
 ## Table of Contents
-1. [Visible-infrared image fusion (VIF)](#Visible-infrared-image-fusion)
+ 1. [Timeline](#Timeline)
+ 2. [Visible-infrared image fusion (VIF)](#Visible-infrared-image-fusion)
   	- [Review](#Review) 
   	- [Benchmark](#Benchmark) 
   	- [2023](#2023)
@@ -17,7 +18,7 @@ A list of papers, datasets (benchmarks) and codes in deep learning-based visible
   	- [2019](#2019) 
   	- [2018](#2018) 
   
- 2. [General image fusion](#General image fusion)
+ 3. [General image fusion](#General image fusion)
  	- [GIF-Review](#GIF-Review)   
  	- [GIF-2023](#GIF-2023) 
  	- [GIF-2022](#GIF-2022) 

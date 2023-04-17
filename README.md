@@ -1,25 +1,32 @@
-# Deep learning-based image fusion : papers & codes
-A list of papers, datasets (benchmarks) and codes in deep learning-based image fusion methods.  
-- If you think this is useful, please consider giving a star, thanks!  
-- If you think some information is wrong, please fell free to contact me to correct.  
+# Deep learning-based visible and infrared image fusion: papers & codes
+This is the repository corresponding to our TPAMI2023 paper "Visible and Infrared Image Fusion Using Deep Learning [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/abstract/document/10088423)".
+
+A list of papers, datasets (benchmarks) and codes in deep learning-based visible and infrared image fusion methods.  
+- If you think this is useful, please consider citing our paper and giving a star, thanks!  
 - If you think some papers are missing and you want to add, please feel free to raise an issue or contact me.  
 - Contact detail: xingchen.zhang@imperial.ac.uk
 
 ## Table of Contents
 1. [Visible-infrared image fusion (VIF)](#Visible-infrared-image-fusion)
-  	- [VIF Review](#VIF-Review) 
-  	- [VIF Benchmark](#VIF-Benchmark) 
-  	- [VIF 2022](#VIF-2022)
-  	- [VIF 2021](#VIF-2021) 
-  	- [VIF 2020](#VIF-2020) 
-  	- [VIF 2019](#VIF-2019) 
-  	- [VIF 2018](#VIF-2018) 
-   
+  	- [Review](#Review) 
+  	- [Benchmark](#Benchmark) 
+  	- [2023](#2023)
+  	- [2022](#2022)
+  	- [2021](#2021) 
+  	- [2020](#2020) 
+  	- [2019](#2019) 
+  	- [2018](#2018) 
+  
+ 2. [General image fusion](#General image fusion)
+ 	- [GIF-Review](#GIF-Review)   
+ 	- [GIF-2023](#GIF-2023) 
+ 	- [GIF-2022](#GIF-2022) 
+ 	- [GIF-2021](#GIF-2021) 
+ 	- [GIF-2020](#GIF-2020) 
+ 	- [GIF-2019](#GIF-2019) 
 
-
-## Visible-infrared-image-fusion
-
-### VIF-Review
+## Visible-infrared image fusion
+### Review
 1. Changqi Sun, Cong Zhang, Naixue Xiong.  
   **Infrared and Visible Image Fusion Techniques Based on Deep Learning: A Review**, Electronics, 2020.
 
@@ -29,11 +36,13 @@ A list of papers, datasets (benchmarks) and codes in deep learning-based image f
 3. Ami Patel, Jayesh Chaudhary.  
 **A Review on Infrared and Visible Image Fusion Techniques**, ICICV, 2019.	  
 	  
-### VIF-Benchmark
+### Benchmark
 1. Xingchen Zhang, Ping Ye, Gang Xiao.  
    **VIFB: a visible and infrared image fusion benchmark**,  CVPRW, 2020. [[Code](https://github.com/xingchenzhang/VIFB)]
+	
+### 2023	 
 	 
-### VIF-2022
+###2022
 #### Journal
 1. Chang Liu, Bin Yang, Xiaozhi Zhang, Lihui Pang.  
 **IBPNet: a multi-resolution and multi-modal image fusion networkvia iterative back-projection**, Applied Intelligence, 2022.
@@ -77,7 +86,7 @@ A list of papers, datasets (benchmarks) and codes in deep learning-based image f
 3. Zhishe Wang, Wenyu Shao, Yanlin Chen, Jiawei Xu, Xiaoqin Zhang.  
 **Infrared and Visible Image Fusion via Interactive Compensatory Attention Adversarial Learning**, 2022.
 
-### VIF-2021
+### 2021
 #### Journal
 1. Kan Ren, Dawei Zhang, Minjie Wan, Xin Miao, Guohua Gu, Qian Chen.  
 **An infrared and visible image fusion method based on improved DenseNet and mRMR-ZCA**, Infrared Physics and Technology, Vol. 115, 2021. [[Paper](https://reader.elsevier.com/reader/sd/pii/S1350449521000797?token=6BAAE584B5078A0E8AB9F4470FE80E104AEE08795144F74BAC19E02E65A9738CDD10DBEA5310D5404113D5C0DC249890&originRegion=eu-west-1&originCreation=20210404131056)]
@@ -172,7 +181,7 @@ A list of papers, datasets (benchmarks) and codes in deep learning-based image f
 **PPT Fusion: Pyramid Patch Transformerfor a Case Study in Image Fusion**, 2021.
 
 
-### VIF-2020
+### 2020
 #### Journal
 1.  Jiayi Ma, Han Xu, Junjun Jiang, Xiaoguang Mei, Xiao-Ping Zhang.  
 **DDcGAN: A Dual-Discriminator Conditional Generative Adversarial Network for Multi-Resolution Image Fusion**, IEEE Transactions on Image Processing, Vol. 29, 2020. [[Tensorflow](https://github.com/jiayi-ma/DDcGAN)]
@@ -254,7 +263,7 @@ A list of papers, datasets (benchmarks) and codes in deep learning-based image f
 **When Image Decomposition Meets Deep Learning: A Novel Infrared and Visible Image Fusion Method**, arXiv, 2020.
 
 
-### VIF-2019
+### 2019
 #### Journal
 1. Hui Li, Xiao-Jun Wu.  
 **DenseFuse: A Fusion Approach to Infrared and Visible Images**, IEEE TIP, Vol. 28, No. 5, 2019.
@@ -291,7 +300,7 @@ A list of papers, datasets (benchmarks) and codes in deep learning-based image f
 **Multisensor Image Fusion based on Generative Adversarial Networks**, Image and Signal Processing for Remote Sensing, 2019.
 
 
-### VIF-2018
+### 2018
 #### Journal
 1. Wei Wu, Zongming Qiu, Min Zhao, Qiuhong Huang, Yang Lei.  
 **Visible and infrared image fusion using NSST and deep Boltzmann machine**, Optik, Vol. 157, 2018.
@@ -317,6 +326,12 @@ A list of papers, datasets (benchmarks) and codes in deep learning-based image f
 2. Simrandeep Singh, Nitin Mittal, Harbinder Singh.  
 **Review of Various Image Fusion Algorithms and Image Fusion Peformance Metric**, Archives of Computational Methods in Engineering, 2021.
 
+
+### GIF-2023
+#### Journal
+
+### GIF-2022
+#### Journal
 
 ### GIF-2021
 #### Journal
@@ -363,5 +378,15 @@ A list of papers, datasets (benchmarks) and codes in deep learning-based image f
 1. Fayez Lahoud, Sabine Susstruck.  
 **Fast and Efficient Zero-Learning Image Fusion**, arXiv, 2019.
 
+## Citation
+If you find this work is useful, please consider citing our paper:
+
+	@article{zhang2023visible,
+	  title={Visible and Infrared Image Fusion Using Deep Learning},
+	  author={Zhang, Xingchen and Demiris, Yiannis},
+	  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+	  year={2023},
+	  publisher={IEEE}
+	}
 
 

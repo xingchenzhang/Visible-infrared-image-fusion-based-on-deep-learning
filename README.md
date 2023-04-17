@@ -1,5 +1,5 @@
 # Deep learning-based visible and infrared image fusion: papers & codes
-This is the repository corresponding to our TPAMI2023 paper "Visible and Infrared Image Fusion Using Deep Learning [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/abstract/document/10088423)".
+This is the repository corresponding to our TPAMI2023 paper "[Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/abstract/document/10088423)".
 
 A list of papers, datasets (benchmarks) and codes in deep learning-based visible and infrared image fusion methods.  
 - If you think this is useful, please consider citing our paper and giving a star, thanks!  
@@ -42,7 +42,7 @@ A list of papers, datasets (benchmarks) and codes in deep learning-based visible
 	
 ### 2023	 
 	 
-###2022
+### 2022
 #### Journal
 1. Chang Liu, Bin Yang, Xiaozhi Zhang, Lihui Pang.  
 **IBPNet: a multi-resolution and multi-modal image fusion networkvia iterative back-projection**, Applied Intelligence, 2022.

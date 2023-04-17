@@ -26,7 +26,7 @@ A list of papers, datasets (benchmarks) and codes in deep learning-based visible
  	- [GIF-2019](#GIF-2019) 
  	
 ## Timeline
-![](https://github.com/xingchenzhang/Visible-infrared-image-fusion-based-on-deep-learning/blob/master/vif-time-line.png) 	
+![](vif-time-line.png) 	
 
 ## Visible-infrared image fusion
 ### Review

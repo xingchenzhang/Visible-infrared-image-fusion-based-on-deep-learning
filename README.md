@@ -18,7 +18,7 @@ A list of papers, datasets (benchmarks) and codes in deep learning-based visible
   	- [2019](#2019) 
   	- [2018](#2018) 
   
- 3. [General image fusion](#General image fusion)
+ 3. [General image fusion](#General-image-fusion)
  	- [GIF-Review](#GIF-Review)   
  	- [GIF-2023](#GIF-2023) 
  	- [GIF-2022](#GIF-2022) 
